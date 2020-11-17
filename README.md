@@ -1,16 +1,15 @@
-# flutter_appbar_tutorial
+# Flutter AppBar tutorial
 
-A new Flutter project.
+This repository is part of my article "How to Create a Flutter AppBar (Flutter Beginner Tutorial)".
 
-## Getting Started
+If you want to learn what a Flutter AppBar is, customize it, and create your own, you can read my article.
 
-This project is a starting point for a Flutter application.
+## Build and Launch
 
-A few resources to get you started if this is your first Flutter project:
+```
+$ flutter run
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Author
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Gaël THOMAS** - [gael-thomas](https://github.com/gael-thomas)
